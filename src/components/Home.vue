@@ -36,7 +36,7 @@
     <v-layout row wrap class="mt-2">
       <v-flex xs12 class="text-xs-center">
         <br>
-        <h1>Welcome to © AutoReview 2018 </h1>
+        <h1>Welcome to © AutoReview 2k18 </h1>
       </v-flex>
     </v-layout>
   </v-container>
